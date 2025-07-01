@@ -3,3 +3,7 @@ background: aqua;
 color: white;
 
 }
+
+header {
+    border: solid 2px white;
+}
